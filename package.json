@@ -1,0 +1,25 @@
+{
+  "name": "angular2-node-test-app",
+  "author": "Juan Ramón González Morales",
+  "version": "1.0.0",
+  "license": "ISC",
+  "description": "Test project using angular2 and node",
+  "homepage": "https://github.com/jrgm0005/node-ns2-app#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgm0005/node-ns2-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jrgm0005/node-ns2-app/issues"
+  },
+  "dependencies": {
+    "mongoose": "~3.6.11",
+    "express": "^4.7.1",
+    "method-override": "^2.1.2",
+    "body-parser": "^1.5.1"
+ }
+}
